@@ -1,5 +1,5 @@
 # True Boy Colorscheme
-Colorscheme for vim and Iterm2, inspired from https://draculatheme.com/vim, https://github.com/joshdick/onedark.vim.
+Colorscheme for vim and Iterm2, inspired by https://draculatheme.com/vim, https://github.com/joshdick/onedark.vim.
 
 # Screenshot
 ![vim](/img/screenshot.png)
