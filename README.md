@@ -1,6 +1,7 @@
 # trueboy.vim
-Vim colorscheme for true boy
+Vim colorscheme for true boy, inspired from https://draculatheme.com/vim, https://github.com/joshdick/onedark.vim.
 
+# Screenshot
 ![screenshoot](/img/screenshot.png)
 
 ## Install
