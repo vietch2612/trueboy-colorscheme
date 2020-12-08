@@ -8,7 +8,7 @@ Colorscheme for vim and Iterm2, inspired by https://draculatheme.com/vim, https:
 # Install for vim
 Use vim-plug or any other plugin manager of your choice:
 
-`Plug 'vietch2612/truboy.vim'`
+`Plug 'vietch2612/trueboy.vim'`
 
 And then set the `colorscheme`.
 
