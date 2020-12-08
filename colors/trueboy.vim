@@ -3,7 +3,8 @@ syntax reset
 let g:colors_name = "trueboy"
 set background=dark
 set t_Co=256
-hi Normal guifg=#ffffff ctermbg=NONE guibg=#272935 gui=NONE
+
+hi Normal guifg=#ffffff ctermbg=NONE guibg=#131330 gui=NONE
 
 hi DiffText guifg=#fc7575 guibg=NONE
 hi ErrorMsg guifg=#fc7575 guibg=NONE
@@ -46,7 +47,7 @@ hi Macro guifg=#e9ff81 guibg=NONE
 hi DiffChange guifg=#e9ff81 guibg=NONE
 hi GitGutterChange guifg=#e9ff81 guibg=NONE
 hi cssColor guifg=#e9ff81 guibg=NONE
-hi Function guifg=#6aa2ff guibg=NONE
+hi Function guifg=#6594de guibg=NONE
 hi Directory guifg=#c481ff guibg=NONE
 hi markdownLinkText guifg=#c481ff guibg=NONE
 hi javaScriptBoolean guifg=#c481ff guibg=NONE
@@ -58,18 +59,18 @@ hi Statement guifg=#6de5ff guibg=NONE
 hi Operator guifg=#6de5ff guibg=NONE
 hi cssAttr guifg=#6de5ff guibg=NONE
 
-hi Pmenu guifg=#ffffff guibg=#9013fe
-hi SignColumn guibg=#272935
+hi Pmenu guifg=#ffffff guibg=#a74df7
+hi SignColumn guibg=#3d3d50
 hi Title guifg=#ffffff
-hi LineNr guifg=#999999 guibg=#272935
-hi NonText guifg=#c481ff guibg=#272935
-hi Comment guifg=#c481ff gui=italic
-hi SpecialComment guifg=#c481ff gui=italic guibg=#272935
-hi CursorLine guibg=#9013fe
-hi TabLineFill gui=NONE guibg=#9013fe
-hi TabLine guifg=#999999 guibg=#9013fe gui=NONE
-hi StatusLine gui=bold guibg=#9013fe guifg=#ffffff
-hi StatusLineNC gui=NONE guibg=#272935 guifg=#ffffff
-hi Search guibg=#c481ff guifg=#ffffff
-hi VertSplit gui=NONE guifg=#9013fe guibg=NONE
-hi Visual gui=NONE guibg=#9013fe
+hi LineNr guifg=#999999 guibg=#3d3d50
+hi NonText guifg=#a088b5 guibg=#3d3d50
+hi Comment guifg=#a088b5 gui=italic
+hi SpecialComment guifg=#a088b5 gui=italic guibg=#3d3d50
+hi CursorLine guibg=#a74df7
+hi TabLineFill gui=NONE guibg=#a74df7
+hi TabLine guifg=#999999 guibg=#a74df7 gui=NONE
+hi StatusLine gui=bold guibg=#a74df7 guifg=#ffffff
+hi StatusLineNC gui=NONE guibg=#3d3d50 guifg=#ffffff
+hi Search guibg=#a088b5 guifg=#ffffff
+hi VertSplit gui=NONE guifg=#a74df7 guibg=NONE
+hi Visual gui=NONE guibg=#a74df7
