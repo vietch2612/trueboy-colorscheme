@@ -1,5 +1,5 @@
 # True Boy Colorscheme
-Colorscheme for vim and Iterm2, inspired by https://draculatheme.com/vim, https://github.com/joshdick/onedark.vim.
+Colorscheme for vim and iterm2, inspired by [Dracula](https://draculatheme.com/vim) and [OneDark](https://github.com/joshdick/onedark.vim).
 
 # Screenshot
 ![vim](/img/screenshot.png)
@@ -16,3 +16,7 @@ And then set the `colorscheme`.
 
 # Install for iterm2
 Preferences -> Profiles -> Colors -> Color presets -> Import -> Select `/itermcolors/trueboy.itermcolors`
+
+# Todo
+* VS Code
+* Sublime Text 3
